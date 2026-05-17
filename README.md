@@ -11,6 +11,9 @@ An AI-powered API marketplace agent capable of:
 The system stores conversational history in MongoDB and supports payment-gated APIs using AgentCash and x402.
 
 ---
+## Demo
+
+![Demo GIF](./assets/demo.gif)
 
 # Features
 
